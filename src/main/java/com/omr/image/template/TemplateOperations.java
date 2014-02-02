@@ -4,7 +4,7 @@ import net.sourceforge.jiu.data.Gray8Image;
 
 public class TemplateOperations {
 	
-	//TODOdddd  ddd
+	//sir i learnt to edit it
 	private void fillTemplate(Gray8Image templateimg, double outerdiamX,
 			double innerdiamX, double aspect) {
 		double centerX = templateimg.getWidth() / 2;
